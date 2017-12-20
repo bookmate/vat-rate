@@ -1,7 +1,7 @@
 require "vat_rate/version"
 require 'csv'
 
-DB_PATH = 'lib/db/vat_rates.csv'.freeze
+DB_PATH = File.join(File.dirname(__FILE__), 'db/vat_rates.csv')
 
 module VatRate
   def self.for(country_code)
