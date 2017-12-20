@@ -1,0 +1,242 @@
+alpha2,country,vat
+AD,Andorra,4.5
+AE,United Arab Emirates,0
+AF,Afghanistan,10
+AG,Antigua and Barbuda,15
+AI,Anguilla,0
+AL,Albania,20
+AM,Armenia,20
+AN,Netherlands Antilles,0
+AO,Angola,0
+AQ,Antarctica,0
+AR,Argentina,21
+AS,American Samoa,0
+AT,Austria,20
+AU,Australia,10
+AW,Aruba,0
+AZ,Azerbaijan,18
+BA,Bosnia and Herzegovina,17
+BB,Barbados,17.5
+BD,Bangladesh,15
+BE,Belgium,21
+BF,Burkina Faso,18
+BG,Bulgaria,20
+BH,Bahrain,0
+BI,Burundi,18
+BJ,Benin,18
+BM,Bermuda,0
+BN,Brunei,0
+BO,Bolivia,13
+BR,Brazil,42
+BS,Bahamas,7.5
+BT,Bhutan,0
+BV,Bouvet Island,0
+BW,Botswana,12
+BY,Belarus,20
+BZ,Belize,12.5
+CA,Canada,5
+CC,Cocos (Keeling) Islands,0
+CD,Democratic Republic of the Congo,16
+CF,Central African Republic,19
+CG,Republic of Congo,16
+CH,Switzerland,8
+CI,Ivory Coast,18
+CK,Cook Islands,0
+CL,Chile,19
+CM,Cameroon,19.25
+CN,China,17
+CO,Colombia,16
+CR,Costa Rica,13
+CU,Cuba,0
+CV,Cape Verde,15
+CX,Christmas Island,0
+CY,Cyprus,19
+CZ,Czech Republic,21
+DE,Germany,19
+DJ,Djibouti,0
+DK,Denmark,25
+DM,Dominica,15
+DO,Dominican Republic,18
+DZ,Algeria,17
+EC,Ecuador,12
+EE,Estonia,20
+EG,Egypt,10
+EH,Western Sahara,0
+ER,Eritrea,0
+ES,Spain,21
+ET,Ethiopia,15
+FI,Finland,24
+FJ,Fiji,15
+FK,Falkland Islands,0
+FM,Micronesia,0
+FO,Faroe Islands,25
+FR,France,20
+GA,Gabon,18
+GB,United Kingdom,20
+GD,Grenada,15
+GE,Georgia,18
+GF,French Guiana,0
+GG,Guernsey,0
+GH,Ghana,15
+GI,Gibraltar,0
+GL,Greenland,0
+GM,Gambia,15
+GN,Guinea,18
+GP,Guadeloupe,8.5
+GQ,Equatorial Guinea,15
+GR,Greece,23
+GS,South Georgia and the South Sandwich Islands,0
+GT,Guatemala,12
+GU,Guam,0
+GW,Guinea-Bissau,15
+GY,Guyana,16
+HK,Hong Kong,0
+HM,Heard and McDonald Islands,0
+HN,Honduras,12
+HR,Croatia,25
+HT,Haiti,10
+HU,Hungary,27
+ID,Indonesia,10
+IE,Ireland,23
+IL,Israel,17
+IM,Isle of Man,20
+IN,India,5.5
+IO,British Indian Ocean Territory,0
+IQ,Iraq,0
+IR,Iran,9
+IS,Iceland,24
+IT,Italy,22
+JE,Jersey,5
+JM,Jamaica,12.5
+JO,Jordan,16
+JP,Japan,8
+KE,Kenya,16
+KG,Kyrgyzstan,20
+KH,Cambodia,10
+KI,Kiribati,0
+KM,Comoros,0
+KN,Saint Kitts and Nevis,17
+KP,North Korea,0
+KR,South Korea,10
+KW,Kuwait,0
+KY,Cayman Islands,0
+KZ,Kazakhstan,12
+LA,Laos,10
+LB,Lebanon,10
+LC,Saint Lucia,0
+LI,Liechtenstein,8.0
+LK,Sri Lanka,12
+LR,Liberia,0
+LS,Lesotho,14
+LT,Lithuania,21
+LU,Luxembourg,17
+LV,Latvia,21
+LY,Libya,0
+MA,Morocco,20
+MC,Monaco,19.6
+MD,Moldova,20
+ME,Montenegro,19
+MG,Madagascar,20
+MH,Marshall Islands,0
+MK,Macedonia,18
+ML,Mali,18
+MM,Myanmar,0
+MN,Mongolia,10
+MO,Macau,0
+MP,Northern Mariana Islands,0
+MQ,Martinique,8.5
+MR,Mauritania,14
+MS,Montserrat,0
+MT,Malta,18
+MU,Mauritius,15
+MV,Maldives,0
+MV,Maldives,6
+MW,Malawi,16.5
+MX,Mexico,16
+MY,Malaysia,6
+MZ,Mozambique,17
+NA,Namibia,15
+NC,New Caledonia,0
+NE,Niger,19
+NF,Norfolk Island,0
+NG,Nigeria,5
+NI,Nicaragua,15
+NL,Netherlands,21
+NO,Norway,25
+NP,Nepal,13
+NR,Nauru,0
+NU,Niue,5
+NZ,New Zealand,15
+OM,Oman,0
+PA,Panama,7
+PE,Peru,18
+PF,French Polynesia,0
+PG,Papua New Guinea,10
+PH,Philippines,12
+PK,Pakistan,17
+PL,Poland,23
+PM,Saint Pierre And Miquelon,0
+PN,Pitcairn Islands,0
+PR,Puerto Rico,0
+PS,Palestine,16
+PT,Portugal,23
+PW,Palau,0
+PY,Paraguay,10
+QA,Qatar,0
+RE,Réunion,8.5
+RO,Romania,24
+RS,Serbia,20
+RU,Russia,18
+RW,Rwanda,18
+SA,Saudi Arabia,0
+SB,Solomon Islands,0
+SC,Seychelles,15
+SD,Sudan,17
+SE,Sweden,25
+SG,Singapore,7
+SH,"Saint Helena, Ascension and Tristan da Cunha",0
+SI,Slovenia,8.5
+SJ,Svalbard And Jan Mayen,0
+SK,Slovakia,20
+SL,Sierra Leone,15
+SL,Sierra Leone,22
+SM,San Marino,0
+SN,Senegal,18
+SO,Somalia,0
+SR,Suriname,0
+SS,South Sudan,0
+ST,Sao Tome and Principe,0
+SV,El Salvador,13
+SY,Syria,0
+SZ,Swaziland,0
+TC,Turks and Caicos Islands,0
+TD,Chad,18
+TG,Togo,18
+TH,Thailand,10
+TJ,Tajikistan,20
+TL,Timor Leste,0
+TM,Turkmenistan,15
+TN,Tunisia,18
+TO,Tonga,15
+TR,Turkey,18
+TT,Trinidad and Tobago,12.5
+TV,Tuvalu,0
+TW,Taiwan,5
+TZ,Tanzania,18
+UA,Ukraine,20
+UG,Uganda,18
+US,United States,0
+UY,Uruguay,22
+UZ,Uzbekistan,20
+VA,Vatican City,0
+VC,Saint Vincent and the Grenadines,15
+VE,Venezuela,12
+VG,British Virgin Islands,0
+VN,Vietnam,10
+VU,Vanuatu,13
+WS,Samoa,15
+XK,Kosovo,18
+YE,Yemen,0
+ZA,South Africa,14
+ZM,Zambia,16
+ZW,Zimbabwe,15
