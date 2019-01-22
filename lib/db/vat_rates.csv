@@ -1,242 +1,243 @@
-alpha2,country,vat
-AD,Andorra,4.5
-AE,United Arab Emirates,0
-AF,Afghanistan,10
-AG,Antigua and Barbuda,15
-AI,Anguilla,0
-AL,Albania,20
-AM,Armenia,20
-AN,Netherlands Antilles,0
-AO,Angola,0
-AQ,Antarctica,0
-AR,Argentina,21
-AS,American Samoa,0
-AT,Austria,20
-AU,Australia,10
-AW,Aruba,0
-AZ,Azerbaijan,18
-BA,Bosnia and Herzegovina,17
-BB,Barbados,17.5
-BD,Bangladesh,15
-BE,Belgium,21
-BF,Burkina Faso,18
-BG,Bulgaria,20
-BH,Bahrain,0
-BI,Burundi,18
-BJ,Benin,18
-BM,Bermuda,0
-BN,Brunei,0
-BO,Bolivia,13
-BR,Brazil,42
-BS,Bahamas,7.5
-BT,Bhutan,0
-BV,Bouvet Island,0
-BW,Botswana,12
-BY,Belarus,20
-BZ,Belize,12.5
-CA,Canada,5
-CC,Cocos (Keeling) Islands,0
-CD,Democratic Republic of the Congo,16
-CF,Central African Republic,19
-CG,Republic of Congo,16
-CH,Switzerland,8
-CI,Ivory Coast,18
-CK,Cook Islands,0
-CL,Chile,19
-CM,Cameroon,19.25
-CN,China,17
-CO,Colombia,16
-CR,Costa Rica,13
-CU,Cuba,0
-CV,Cape Verde,15
-CX,Christmas Island,0
-CY,Cyprus,19
-CZ,Czech Republic,21
-DE,Germany,19
-DJ,Djibouti,0
-DK,Denmark,25
-DM,Dominica,15
-DO,Dominican Republic,18
-DZ,Algeria,17
-EC,Ecuador,12
-EE,Estonia,20
-EG,Egypt,10
-EH,Western Sahara,0
-ER,Eritrea,0
-ES,Spain,21
-ET,Ethiopia,15
-FI,Finland,24
-FJ,Fiji,15
-FK,Falkland Islands,0
-FM,Micronesia,0
-FO,Faroe Islands,25
-FR,France,20
-GA,Gabon,18
-GB,United Kingdom,20
-GD,Grenada,15
-GE,Georgia,18
-GF,French Guiana,0
-GG,Guernsey,0
-GH,Ghana,15
-GI,Gibraltar,0
-GL,Greenland,0
-GM,Gambia,15
-GN,Guinea,18
-GP,Guadeloupe,8.5
-GQ,Equatorial Guinea,15
-GR,Greece,23
-GS,South Georgia and the South Sandwich Islands,0
-GT,Guatemala,12
-GU,Guam,0
-GW,Guinea-Bissau,15
-GY,Guyana,16
-HK,Hong Kong,0
-HM,Heard and McDonald Islands,0
-HN,Honduras,12
-HR,Croatia,25
-HT,Haiti,10
-HU,Hungary,27
-ID,Indonesia,10
-IE,Ireland,23
-IL,Israel,17
-IM,Isle of Man,20
-IN,India,5.5
-IO,British Indian Ocean Territory,0
-IQ,Iraq,0
-IR,Iran,9
-IS,Iceland,24
-IT,Italy,22
-JE,Jersey,5
-JM,Jamaica,12.5
-JO,Jordan,16
-JP,Japan,8
-KE,Kenya,16
-KG,Kyrgyzstan,20
-KH,Cambodia,10
-KI,Kiribati,0
-KM,Comoros,0
-KN,Saint Kitts and Nevis,17
-KP,North Korea,0
-KR,South Korea,10
-KW,Kuwait,0
-KY,Cayman Islands,0
-KZ,Kazakhstan,12
-LA,Laos,10
-LB,Lebanon,10
-LC,Saint Lucia,0
-LI,Liechtenstein,8.0
-LK,Sri Lanka,12
-LR,Liberia,0
-LS,Lesotho,14
-LT,Lithuania,21
-LU,Luxembourg,17
-LV,Latvia,21
-LY,Libya,0
-MA,Morocco,20
-MC,Monaco,19.6
-MD,Moldova,20
-ME,Montenegro,19
-MG,Madagascar,20
-MH,Marshall Islands,0
-MK,Macedonia,18
-ML,Mali,18
-MM,Myanmar,0
-MN,Mongolia,10
-MO,Macau,0
-MP,Northern Mariana Islands,0
-MQ,Martinique,8.5
-MR,Mauritania,14
-MS,Montserrat,0
-MT,Malta,18
-MU,Mauritius,15
-MV,Maldives,0
-MV,Maldives,6
-MW,Malawi,16.5
-MX,Mexico,16
-MY,Malaysia,6
-MZ,Mozambique,17
-NA,Namibia,15
-NC,New Caledonia,0
-NE,Niger,19
-NF,Norfolk Island,0
-NG,Nigeria,5
-NI,Nicaragua,15
-NL,Netherlands,21
-NO,Norway,25
-NP,Nepal,13
-NR,Nauru,0
-NU,Niue,5
-NZ,New Zealand,15
-OM,Oman,0
-PA,Panama,7
-PE,Peru,18
-PF,French Polynesia,0
-PG,Papua New Guinea,10
-PH,Philippines,12
-PK,Pakistan,17
-PL,Poland,23
-PM,Saint Pierre And Miquelon,0
-PN,Pitcairn Islands,0
-PR,Puerto Rico,0
-PS,Palestine,16
-PT,Portugal,23
-PW,Palau,0
-PY,Paraguay,10
-QA,Qatar,0
-RE,Réunion,8.5
-RO,Romania,24
-RS,Serbia,20
-RU,Russia,20
-RW,Rwanda,18
-SA,Saudi Arabia,0
-SB,Solomon Islands,0
-SC,Seychelles,15
-SD,Sudan,17
-SE,Sweden,25
-SG,Singapore,7
-SH,"Saint Helena, Ascension and Tristan da Cunha",0
-SI,Slovenia,8.5
-SJ,Svalbard And Jan Mayen,0
-SK,Slovakia,20
-SL,Sierra Leone,15
-SL,Sierra Leone,22
-SM,San Marino,0
-SN,Senegal,18
-SO,Somalia,0
-SR,Suriname,0
-SS,South Sudan,0
-ST,Sao Tome and Principe,0
-SV,El Salvador,13
-SY,Syria,0
-SZ,Swaziland,0
-TC,Turks and Caicos Islands,0
-TD,Chad,18
-TG,Togo,18
-TH,Thailand,10
-TJ,Tajikistan,20
-TL,Timor Leste,0
-TM,Turkmenistan,15
-TN,Tunisia,18
-TO,Tonga,15
-TR,Turkey,18
-TT,Trinidad and Tobago,12.5
-TV,Tuvalu,0
-TW,Taiwan,5
-TZ,Tanzania,18
-UA,Ukraine,20
-UG,Uganda,18
-US,United States,0
-UY,Uruguay,22
-UZ,Uzbekistan,20
-VA,Vatican City,0
-VC,Saint Vincent and the Grenadines,15
-VE,Venezuela,12
-VG,British Virgin Islands,0
-VN,Vietnam,10
-VU,Vanuatu,13
-WS,Samoa,15
-XK,Kosovo,18
-YE,Yemen,0
-ZA,South Africa,14
-ZM,Zambia,16
-ZW,Zimbabwe,15
+alpha2,country,vat,valid_since
+AD,Andorra,4.5,0000-01-01
+AE,United Arab Emirates,0,0000-01-01
+AF,Afghanistan,10,0000-01-01
+AG,Antigua and Barbuda,15,0000-01-01
+AI,Anguilla,0,0000-01-01
+AL,Albania,20,0000-01-01
+AM,Armenia,20,0000-01-01
+AN,Netherlands Antilles,0,0000-01-01
+AO,Angola,0,0000-01-01
+AQ,Antarctica,0,0000-01-01
+AR,Argentina,21,0000-01-01
+AS,American Samoa,0,0000-01-01
+AT,Austria,20,0000-01-01
+AU,Australia,10,0000-01-01
+AW,Aruba,0,0000-01-01
+AZ,Azerbaijan,18,0000-01-01
+BA,Bosnia and Herzegovina,17,0000-01-01
+BB,Barbados,17.5,0000-01-01
+BD,Bangladesh,15,0000-01-01
+BE,Belgium,21,0000-01-01
+BF,Burkina Faso,18,0000-01-01
+BG,Bulgaria,20,0000-01-01
+BH,Bahrain,0,0000-01-01
+BI,Burundi,18,0000-01-01
+BJ,Benin,18,0000-01-01
+BM,Bermuda,0,0000-01-01
+BN,Brunei,0,0000-01-01
+BO,Bolivia,13,0000-01-01
+BR,Brazil,42,0000-01-01
+BS,Bahamas,7.5,0000-01-01
+BT,Bhutan,0,0000-01-01
+BV,Bouvet Island,0,0000-01-01
+BW,Botswana,12,0000-01-01
+BY,Belarus,20,0000-01-01
+BZ,Belize,12.5,0000-01-01
+CA,Canada,5,0000-01-01
+CC,Cocos (Keeling) Islands,0,0000-01-01
+CD,Democratic Republic of the Congo,16,0000-01-01
+CF,Central African Republic,19,0000-01-01
+CG,Republic of Congo,16,0000-01-01
+CH,Switzerland,8,0000-01-01
+CI,Ivory Coast,18,0000-01-01
+CK,Cook Islands,0,0000-01-01
+CL,Chile,19,0000-01-01
+CM,Cameroon,19.25,0000-01-01
+CN,China,17,0000-01-01
+CO,Colombia,16,0000-01-01
+CR,Costa Rica,13,0000-01-01
+CU,Cuba,0,0000-01-01
+CV,Cape Verde,15,0000-01-01
+CX,Christmas Island,0,0000-01-01
+CY,Cyprus,19,0000-01-01
+CZ,Czech Republic,21,0000-01-01
+DE,Germany,19,0000-01-01
+DJ,Djibouti,0,0000-01-01
+DK,Denmark,25,0000-01-01
+DM,Dominica,15,0000-01-01
+DO,Dominican Republic,18,0000-01-01
+DZ,Algeria,17,0000-01-01
+EC,Ecuador,12,0000-01-01
+EE,Estonia,20,0000-01-01
+EG,Egypt,10,0000-01-01
+EH,Western Sahara,0,0000-01-01
+ER,Eritrea,0,0000-01-01
+ES,Spain,21,0000-01-01
+ET,Ethiopia,15,0000-01-01
+FI,Finland,24,0000-01-01
+FJ,Fiji,15,0000-01-01
+FK,Falkland Islands,0,0000-01-01
+FM,Micronesia,0,0000-01-01
+FO,Faroe Islands,25,0000-01-01
+FR,France,20,0000-01-01
+GA,Gabon,18,0000-01-01
+GB,United Kingdom,20,0000-01-01
+GD,Grenada,15,0000-01-01
+GE,Georgia,18,0000-01-01
+GF,French Guiana,0,0000-01-01
+GG,Guernsey,0,0000-01-01
+GH,Ghana,15,0000-01-01
+GI,Gibraltar,0,0000-01-01
+GL,Greenland,0,0000-01-01
+GM,Gambia,15,0000-01-01
+GN,Guinea,18,0000-01-01
+GP,Guadeloupe,8.5,0000-01-01
+GQ,Equatorial Guinea,15,0000-01-01
+GR,Greece,23,0000-01-01
+GS,South Georgia and the South Sandwich Islands,0,0000-01-01
+GT,Guatemala,12,0000-01-01
+GU,Guam,0,0000-01-01
+GW,Guinea-Bissau,15,0000-01-01
+GY,Guyana,16,0000-01-01
+HK,Hong Kong,0,0000-01-01
+HM,Heard and McDonald Islands,0,0000-01-01
+HN,Honduras,12,0000-01-01
+HR,Croatia,25,0000-01-01
+HT,Haiti,10,0000-01-01
+HU,Hungary,27,0000-01-01
+ID,Indonesia,10,0000-01-01
+IE,Ireland,23,0000-01-01
+IL,Israel,17,0000-01-01
+IM,Isle of Man,20,0000-01-01
+IN,India,5.5,0000-01-01
+IO,British Indian Ocean Territory,0,0000-01-01
+IQ,Iraq,0,0000-01-01
+IR,Iran,9,0000-01-01
+IS,Iceland,24,0000-01-01
+IT,Italy,22,0000-01-01
+JE,Jersey,5,0000-01-01
+JM,Jamaica,12.5,0000-01-01
+JO,Jordan,16,0000-01-01
+JP,Japan,8,0000-01-01
+KE,Kenya,16,0000-01-01
+KG,Kyrgyzstan,20,0000-01-01
+KH,Cambodia,10,0000-01-01
+KI,Kiribati,0,0000-01-01
+KM,Comoros,0,0000-01-01
+KN,Saint Kitts and Nevis,17,0000-01-01
+KP,North Korea,0,0000-01-01
+KR,South Korea,10,0000-01-01
+KW,Kuwait,0,0000-01-01
+KY,Cayman Islands,0,0000-01-01
+KZ,Kazakhstan,12,0000-01-01
+LA,Laos,10,0000-01-01
+LB,Lebanon,10,0000-01-01
+LC,Saint Lucia,0,0000-01-01
+LI,Liechtenstein,8.0,0000-01-01
+LK,Sri Lanka,12,0000-01-01
+LR,Liberia,0,0000-01-01
+LS,Lesotho,14,0000-01-01
+LT,Lithuania,21,0000-01-01
+LU,Luxembourg,17,0000-01-01
+LV,Latvia,21,0000-01-01
+LY,Libya,0,0000-01-01
+MA,Morocco,20,0000-01-01
+MC,Monaco,19.6,0000-01-01
+MD,Moldova,20,0000-01-01
+ME,Montenegro,19,0000-01-01
+MG,Madagascar,20,0000-01-01
+MH,Marshall Islands,0,0000-01-01
+MK,Macedonia,18,0000-01-01
+ML,Mali,18,0000-01-01
+MM,Myanmar,0,0000-01-01
+MN,Mongolia,10,0000-01-01
+MO,Macau,0,0000-01-01
+MP,Northern Mariana Islands,0,0000-01-01
+MQ,Martinique,8.5,0000-01-01
+MR,Mauritania,14,0000-01-01
+MS,Montserrat,0,0000-01-01
+MT,Malta,18,0000-01-01
+MU,Mauritius,15,0000-01-01
+MV,Maldives,0,0000-01-01
+MV,Maldives,6,0000-01-01
+MW,Malawi,16.5,0000-01-01
+MX,Mexico,16,0000-01-01
+MY,Malaysia,6,0000-01-01
+MZ,Mozambique,17,0000-01-01
+NA,Namibia,15,0000-01-01
+NC,New Caledonia,0,0000-01-01
+NE,Niger,19,0000-01-01
+NF,Norfolk Island,0,0000-01-01
+NG,Nigeria,5,0000-01-01
+NI,Nicaragua,15,0000-01-01
+NL,Netherlands,21,0000-01-01
+NO,Norway,25,0000-01-01
+NP,Nepal,13,0000-01-01
+NR,Nauru,0,0000-01-01
+NU,Niue,5,0000-01-01
+NZ,New Zealand,15,0000-01-01
+OM,Oman,0,0000-01-01
+PA,Panama,7,0000-01-01
+PE,Peru,18,0000-01-01
+PF,French Polynesia,0,0000-01-01
+PG,Papua New Guinea,10,0000-01-01
+PH,Philippines,12,0000-01-01
+PK,Pakistan,17,0000-01-01
+PL,Poland,23,0000-01-01
+PM,Saint Pierre And Miquelon,0,0000-01-01
+PN,Pitcairn Islands,0,0000-01-01
+PR,Puerto Rico,0,0000-01-01
+PS,Palestine,16,0000-01-01
+PT,Portugal,23,0000-01-01
+PW,Palau,0,0000-01-01
+PY,Paraguay,10,0000-01-01
+QA,Qatar,0,0000-01-01
+RE,Réunion,8.5,0000-01-01
+RO,Romania,24,0000-01-01
+RS,Serbia,20,0000-01-01
+RU,Russia,18,0000-01-01
+RU,Russia,20,2018-01-01
+RW,Rwanda,18,0000-01-01
+SA,Saudi Arabia,0,0000-01-01
+SB,Solomon Islands,0,0000-01-01
+SC,Seychelles,15,0000-01-01
+SD,Sudan,17,0000-01-01
+SE,Sweden,25,0000-01-01
+SG,Singapore,7,0000-01-01
+SH,"Saint Helena, Ascension and Tristan da Cunha",0,0000-01-01
+SI,Slovenia,8.5,0000-01-01
+SJ,Svalbard And Jan Mayen,0,0000-01-01
+SK,Slovakia,20,0000-01-01
+SL,Sierra Leone,15,0000-01-01
+SL,Sierra Leone,22,0000-01-01
+SM,San Marino,0,0000-01-01
+SN,Senegal,18,0000-01-01
+SO,Somalia,0,0000-01-01
+SR,Suriname,0,0000-01-01
+SS,South Sudan,0,0000-01-01
+ST,Sao Tome and Principe,0,0000-01-01
+SV,El Salvador,13,0000-01-01
+SY,Syria,0,0000-01-01
+SZ,Swaziland,0,0000-01-01
+TC,Turks and Caicos Islands,0,0000-01-01
+TD,Chad,18,0000-01-01
+TG,Togo,18,0000-01-01
+TH,Thailand,10,0000-01-01
+TJ,Tajikistan,20,0000-01-01
+TL,Timor Leste,0,0000-01-01
+TM,Turkmenistan,15,0000-01-01
+TN,Tunisia,18,0000-01-01
+TO,Tonga,15,0000-01-01
+TR,Turkey,18,0000-01-01
+TT,Trinidad and Tobago,12.5,0000-01-01
+TV,Tuvalu,0,0000-01-01
+TW,Taiwan,5,0000-01-01
+TZ,Tanzania,18,0000-01-01
+UA,Ukraine,20,0000-01-01
+UG,Uganda,18,0000-01-01
+US,United States,0,0000-01-01
+UY,Uruguay,22,0000-01-01
+UZ,Uzbekistan,20,0000-01-01
+VA,Vatican City,0,0000-01-01
+VC,Saint Vincent and the Grenadines,15,0000-01-01
+VE,Venezuela,12,0000-01-01
+VG,British Virgin Islands,0,0000-01-01
+VN,Vietnam,10,0000-01-01
+VU,Vanuatu,13,0000-01-01
+WS,Samoa,15,0000-01-01
+XK,Kosovo,18,0000-01-01
+YE,Yemen,0,0000-01-01
+ZA,South Africa,14,0000-01-01
+ZM,Zambia,16,0000-01-01
+ZW,Zimbabwe,15,0000-01-01
