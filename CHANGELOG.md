@@ -6,6 +6,12 @@ According to https://semver.org/#spec-item-4 0.x versions should not be consider
 
 ## [Unreleased]
 
+## [0.2.3] - 2019-05-29
+
+### Added
+
+- VAT for Åland Islands
+
 ## [0.2.2] - 2019-05-29
 
 ### Added
