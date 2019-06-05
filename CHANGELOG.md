@@ -6,6 +6,12 @@ According to https://semver.org/#spec-item-4 0.x versions should not be consider
 
 ## [Unreleased]
 
+## [0.2.6] - 2019-06-05
+
+### Added
+
+- VAT for French Southern Territories and Tokelau
+
 ## [0.2.5] - 2019-06-03
 
 ### Added
