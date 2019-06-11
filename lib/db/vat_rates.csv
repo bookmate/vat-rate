@@ -29,6 +29,7 @@ BL,Saint Barthelemy,0,0000-01-01
 BM,Bermuda,0,0000-01-01
 BN,Brunei,0,0000-01-01
 BO,Bolivia,13,0000-01-01
+BQ,Bonaire,8,0000-01-01
 BR,Brazil,42,0000-01-01
 BS,Bahamas,7.5,0000-01-01
 BT,Bhutan,0,0000-01-01
@@ -51,6 +52,7 @@ CO,Colombia,16,0000-01-01
 CR,Costa Rica,13,0000-01-01
 CU,Cuba,0,0000-01-01
 CV,Cape Verde,15,0000-01-01
+CW,Curacao,6,0000-01-01
 CX,Christmas Island,0,0000-01-01
 CY,Cyprus,19,0000-01-01
 CZ,Czech Republic,21,0000-01-01
@@ -211,6 +213,7 @@ SR,Suriname,0,0000-01-01
 SS,South Sudan,0,0000-01-01
 ST,Sao Tome and Principe,0,0000-01-01
 SV,El Salvador,13,0000-01-01
+SX,Sint Maarten (Dutch part),21,0000-01-01
 SY,Syria,0,0000-01-01
 SZ,Swaziland,0,0000-01-01
 TC,Turks and Caicos Islands,0,0000-01-01
@@ -231,15 +234,18 @@ TW,Taiwan,5,0000-01-01
 TZ,Tanzania,18,0000-01-01
 UA,Ukraine,20,0000-01-01
 UG,Uganda,18,0000-01-01
+UM,United States Minor Outlying Islands,0,0000-01-01
 US,United States,0,0000-01-01
 UY,Uruguay,22,0000-01-01
 UZ,Uzbekistan,20,0000-01-01
 VA,Vatican City,0,0000-01-01
 VC,Saint Vincent and the Grenadines,15,0000-01-01
 VE,Venezuela,12,0000-01-01
+VI,Virgin Islands (U.S.),0,0000-01-01
 VG,British Virgin Islands,0,0000-01-01
 VN,Vietnam,10,0000-01-01
 VU,Vanuatu,13,0000-01-01
+WF,Wallis and Futuna,0,0000-01-01
 WS,Samoa,15,0000-01-01
 XK,Kosovo,18,0000-01-01
 YE,Yemen,0,0000-01-01

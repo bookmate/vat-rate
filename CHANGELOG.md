@@ -6,6 +6,12 @@ According to https://semver.org/#spec-item-4 0.x versions should not be consider
 
 ## [Unreleased]
 
+## [0.2.7] - 2019-06-11
+
+### Added
+
+- VAT for Bonaire, Sint Eustatius and Saba, Curaçao, Wallis and Futuna, Virgin Islands (U.S.), United States Minor Outlying Islands, Sint Maarten (Dutch part)
+
 ## [0.2.6] - 2019-06-05
 
 ### Added
