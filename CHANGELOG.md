@@ -6,6 +6,10 @@ According to https://semver.org/#spec-item-4 0.x versions should not be consider
 
 ## [Unreleased]
 
+## [0.2.8] - 2020-06-29
+
+- Change VAT rates due to pandemic crisis
+
 ## [0.2.7] - 2019-06-11
 
 ### Added

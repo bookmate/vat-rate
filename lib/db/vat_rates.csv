@@ -11,7 +11,7 @@ AO,Angola,0,0000-01-01
 AQ,Antarctica,0,0000-01-01
 AR,Argentina,21,0000-01-01
 AS,American Samoa,0,0000-01-01
-AT,Austria,20,0000-01-01
+AT,Austria,10,2020-01-01
 AU,Australia,10,0000-01-01
 AW,Aruba,0,0000-01-01
 AX,Åland Islands,0,0000-01-01
@@ -19,7 +19,7 @@ AZ,Azerbaijan,18,0000-01-01
 BA,Bosnia and Herzegovina,17,0000-01-01
 BB,Barbados,17.5,0000-01-01
 BD,Bangladesh,15,0000-01-01
-BE,Belgium,21,0000-01-01
+BE,Belgium,6,2020-01-01
 BF,Burkina Faso,18,0000-01-01
 BG,Bulgaria,20,0000-01-01
 BH,Bahrain,0,0000-01-01
@@ -55,28 +55,28 @@ CV,Cape Verde,15,0000-01-01
 CW,Curacao,6,0000-01-01
 CX,Christmas Island,0,0000-01-01
 CY,Cyprus,19,0000-01-01
-CZ,Czech Republic,21,0000-01-01
-DE,Germany,19,0000-01-01
+CZ,Czech Republic,10,2020-01-01
+DE,Germany,5,2020-01-01
 DJ,Djibouti,0,0000-01-01
 DK,Denmark,25,0000-01-01
 DM,Dominica,15,0000-01-01
 DO,Dominican Republic,18,0000-01-01
 DZ,Algeria,17,0000-01-01
 EC,Ecuador,12,0000-01-01
-EE,Estonia,20,0000-01-01
+EE,Estonia,9,2020-01-01
 EG,Egypt,10,0000-01-01
 EH,Western Sahara,0,0000-01-01
 ER,Eritrea,0,0000-01-01
-ES,Spain,21,0000-01-01
+ES,Spain,4,2020-01-01
 ET,Ethiopia,15,0000-01-01
-FI,Finland,24,0000-01-01
+FI,Finland,10,2020-01-01
 FJ,Fiji,15,0000-01-01
 FK,Falkland Islands,0,0000-01-01
 FM,Micronesia,0,0000-01-01
 FO,Faroe Islands,25,0000-01-01
 FR,France,20,0000-01-01
 GA,Gabon,18,0000-01-01
-GB,United Kingdom,20,0000-01-01
+GB,United Kingdom,0,2020-01-01
 GD,Grenada,15,0000-01-01
 GE,Georgia,18,0000-01-01
 GF,French Guiana,0,0000-01-01
@@ -97,11 +97,11 @@ GY,Guyana,16,0000-01-01
 HK,Hong Kong,0,0000-01-01
 HM,Heard and McDonald Islands,0,0000-01-01
 HN,Honduras,12,0000-01-01
-HR,Croatia,25,0000-01-01
+HR,Croatia,5,2020-01-01
 HT,Haiti,10,0000-01-01
 HU,Hungary,27,0000-01-01
 ID,Indonesia,10,0000-01-01
-IE,Ireland,23,0000-01-01
+IE,Ireland,9,2020-01-01
 IL,Israel,17,0000-01-01
 IM,Isle of Man,20,0000-01-01
 IN,India,5.5,0000-01-01
@@ -133,7 +133,7 @@ LK,Sri Lanka,12,0000-01-01
 LR,Liberia,0,0000-01-01
 LS,Lesotho,14,0000-01-01
 LT,Lithuania,21,0000-01-01
-LU,Luxembourg,17,0000-01-01
+LU,Luxembourg,3,2020-01-01
 LV,Latvia,21,0000-01-01
 LY,Libya,0,0000-01-01
 MA,Morocco,20,0000-01-01
@@ -152,7 +152,7 @@ MP,Northern Mariana Islands,0,0000-01-01
 MQ,Martinique,8.5,0000-01-01
 MR,Mauritania,14,0000-01-01
 MS,Montserrat,0,0000-01-01
-MT,Malta,18,0000-01-01
+MT,Malta,5,2020-01-01
 MU,Mauritius,15,0000-01-01
 MV,Maldives,0,0000-01-01
 MV,Maldives,6,0000-01-01
@@ -166,8 +166,8 @@ NE,Niger,19,0000-01-01
 NF,Norfolk Island,0,0000-01-01
 NG,Nigeria,5,0000-01-01
 NI,Nicaragua,15,0000-01-01
-NL,Netherlands,21,0000-01-01
-NO,Norway,25,0000-01-01
+NL,Netherlands,9,2020-01-01
+NO,Norway,0,2020-01-01
 NP,Nepal,13,0000-01-01
 NR,Nauru,0,0000-01-01
 NU,Niue,5,0000-01-01
@@ -179,12 +179,12 @@ PF,French Polynesia,0,0000-01-01
 PG,Papua New Guinea,10,0000-01-01
 PH,Philippines,12,0000-01-01
 PK,Pakistan,17,0000-01-01
-PL,Poland,23,0000-01-01
+PL,Poland,5,2020-01-01
 PM,Saint Pierre And Miquelon,0,0000-01-01
 PN,Pitcairn Islands,0,0000-01-01
 PR,Puerto Rico,0,0000-01-01
 PS,Palestine,16,0000-01-01
-PT,Portugal,23,0000-01-01
+PT,Portugal,6,2020-01-01
 PW,Palau,0,0000-01-01
 PY,Paraguay,10,0000-01-01
 QA,Qatar,0,0000-01-01
@@ -198,10 +198,10 @@ SA,Saudi Arabia,0,0000-01-01
 SB,Solomon Islands,0,0000-01-01
 SC,Seychelles,15,0000-01-01
 SD,Sudan,17,0000-01-01
-SE,Sweden,25,0000-01-01
+SE,Sweden,6,2020-01-01
 SG,Singapore,7,0000-01-01
 SH,"Saint Helena, Ascension and Tristan da Cunha",0,0000-01-01
-SI,Slovenia,8.5,0000-01-01
+SI,Slovenia,5,2020-01-01
 SJ,Svalbard And Jan Mayen,0,0000-01-01
 SK,Slovakia,20,0000-01-01
 SL,Sierra Leone,15,0000-01-01
