@@ -6,6 +6,10 @@ According to https://semver.org/#spec-item-4 0.x versions should not be consider
 
 ## [Unreleased]
 
+## [0.2.10] - 2021-01-20
+
+- Change Germany(DE) VAT rate from 5% to 7% starting from 2021-01-01
+
 ## [0.2.9] - 2020-10-06
 
 - Change Ireland(IE) VAT rate from 23 to 21%
